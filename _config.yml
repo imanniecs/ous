@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: POLYTECHNIC UNIVERSITY OF THE PHILIPPINES - OPEN UNIVERSITY SYSTEM 0
+title: OPEN UNIVERSITY SYSTEM
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: An Open and Distance Learning for a Globally Competitive Polytechnic Education in Asia
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The PUP Open University System (PUP OUS), also known as the "Pamantasang Bayan", is a fresh and innovative system of delivering higher educational services in a manner that differs from the formal, highly structured, and classroom-oriented traditional approach."
+description: "The PUP Open University System (PUP OUS), also known as the Pamantasang Bayan, is a fresh and innovative system of delivering higher educational services in a manner that differs from the formal, highly structured, and classroom-oriented traditional approach."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Manabat, Mark Nixon M., Sampayan, Annie C., Usero, Ma. Consolacion A. 
 
@@ -40,7 +40,7 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "OPEN UNIVERSITY SYSTEM"
+# organization-name: OPEN UNIVERSITY SYSTEM
 # organization-link: https://cdil.lib.uidaho.edu/
 # organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
